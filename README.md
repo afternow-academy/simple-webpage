@@ -1,5 +1,5 @@
 # simple-webpage
-This is a simple github demo page.
+This is a simple GitHub demo page.
 
 ### Here is a list of some useful links:
 
