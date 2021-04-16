@@ -4,20 +4,21 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.lightStyle {
-  background-color: lightyellow;
-  color: darkslategrey;
-}
-
-.darkStyle {
-  background-color: darkslategrey;
-  color: lightyellow;
-}
-
 .wrapper {
   width: 800px;
   margin: 0 auto;
   padding: 2rem;
+}
+
+/* Dark & Light */
+.light-style {
+  background-color: lightyellow;
+  color: darkslategrey;
+}
+
+.dark-style {
+  background-color: darkslategrey;
+  color: lightyellow;
 }
 
 /* Navbar style */
