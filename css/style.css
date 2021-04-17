@@ -16,10 +16,16 @@ h1 {
   font-weight: bold;
 }
 
+/* Wrappers */
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0 2rem;
+}
+
+.avatar-wrapper {
+  display: flex;
+  justify-content: center;
 }
 
 .info {
