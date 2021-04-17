@@ -13,6 +13,7 @@ The list below is divided in 3 main parts... HTML, CSS & Javascript.
 - [CSS Reset – Long](https://piccalil.li/blog/a-modern-css-reset)
 - [CSS Reset – Short](https://www.digitalocean.com/community/tutorials/css-minimal-css-reset)
 - [CSS reference page](https://www.w3schools.com/css/default.asp)
+- [CSS filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
 **_Javascript_**
 - [Javascript documentation & reference page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

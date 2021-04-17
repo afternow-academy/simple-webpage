@@ -12,6 +12,10 @@ body {
   color: lightyellow;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 .wrapper {
   width: 800px;
   margin: 0 auto;
@@ -31,14 +35,24 @@ body {
   /* color: darkslategrey; */
 }
 
+.light-style h1 {
+  color: var(--brand-dark);
+}
+
 .dark-style {
   background-color: var(--brand-dark);
 }
 
 /* Navbar style */
 .navbar {
+  display: flex;
+  align-items: center;
   padding: 2rem 0;
   text-align: right;
+}
+
+.nav-btn {
+  margin-left: auto;
 }
 
 /* General style */
